@@ -1,0 +1,13 @@
+#asciiArt {
+    font-family: monospace;
+    white-space: pre;
+    font-size: 6px;
+    line-height: 6px;
+    /* border: 2px solid darkgray; */
+}
+
+#asciiContainer {
+    width: 500px; 
+    aspect-ratio: 1/1;
+    overflow: auto; 
+}
